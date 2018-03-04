@@ -1,0 +1,1 @@
+export const cloneMatrix = (matrix) => [ matrix.map(x => [...x])];

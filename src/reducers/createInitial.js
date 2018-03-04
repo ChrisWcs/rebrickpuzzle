@@ -1,7 +1,7 @@
 const createInitial = () => ({
     playerPosition: {
-        x: 0,
-        y: 0,
+        r: 0,
+        c: 0,
     },
     mapMatrix: [
         ["p", "f", "f"],
